@@ -40,8 +40,8 @@ h2 {
 }
 
 #secondText{
-	 background: linear-gradient(yellow, black);
-	background-image:url("img/kimcrying.jpeg"); background-repeat:repeat;
+	background-image:url("img/kimcrying.jpg"); 
+	background-repeat:round;
 }
 
 #firstText{
@@ -54,7 +54,7 @@ h2 {
 }
 
 #fourthText{
-	background-image:url("img/clean.jpeg");
+	background-image:url("img/clean.jpg");
 	background-repeat:round;
 	margin-bottom:30px;
 }
