@@ -41,6 +41,7 @@ h2 {
 
 #secondText{
 	 background: linear-gradient(yellow, black);
+	background-image:url("img/kimcrying.jpeg"); background-repeat:repeat;
 }
 
 #firstText{
