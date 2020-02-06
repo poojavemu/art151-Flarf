@@ -59,7 +59,7 @@ h2 {
 }
 
 /* The element to apply the animation to */
-#firstText {
+img {
   width: 100px;
   height: 100px;
   background-color: red;
