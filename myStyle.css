@@ -280,11 +280,11 @@ h7{
 	font-style: bold;
 }
 
-#gif {
+.gif {
 	background-image:url("img/giphy.gif"); background-repeat:repeat;
 }
 
-#none {
+.none {
 	background-color: #000000;
 }
 
