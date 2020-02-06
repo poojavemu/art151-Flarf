@@ -284,6 +284,10 @@ h7{
 	background-image:url("img/giphy.gif"); background-repeat:repeat;
 }
 
+#none {
+	background-color: #000000;
+}
+
 button {
 	font-family: Nosifer;
 	font-size: 25px;
