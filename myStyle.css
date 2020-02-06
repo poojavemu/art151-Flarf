@@ -54,6 +54,7 @@ h2 {
 
 #fourthText{
 	background-image:url("img/clean.jpeg");
+	background-repeat:round;
 	margin-bottom:30px;
 }
 
