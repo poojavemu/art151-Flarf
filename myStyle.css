@@ -40,7 +40,9 @@ h2 {
 }
 
 #secondText{
-	background:url(img/kimcrying.jpeg);
+	background-image:url("img/kim.gif");
+	background-repeat:space;
+	
 }
 
 #firstText{
