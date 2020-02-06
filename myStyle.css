@@ -40,13 +40,13 @@ h2 {
 }
 
 #secondText{
-	background-image:url("img/kim.gif");
+	background:url(img/kim.gif);
 	background-repeat:space;
 	
 }
 
 #firstText{
-	background:url("img/exam.png"); background-repeat:repeat;
+	background:url(img/exam.png); background-repeat:repeat;
 }
 
 #thirdText{
