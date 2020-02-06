@@ -44,7 +44,7 @@ h2 {
 }
 
 #firstText{
-	background-color: #AFFF9A;
+	background-image:url("img/exam.png"); background-repeat:repeat;
 }
 
 #thirdText{
